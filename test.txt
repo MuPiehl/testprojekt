@@ -2,3 +2,16 @@ test MPi
 haui
 hi, gibt es was neues?
 ja daten kommen gleich 
+bekomme den text nicht so ausgerichtet wie ich es mir wünsche 
+
+quasi so 
+
+
+
+das ein teil hier steht                                                                                                       ein anderer teil evtl hier 
+
+
+                                                                  und im center ebenso eine kleinigkeit
+
+
+                                                                                                                              kontaktdaten eher unten rechtsbündig
