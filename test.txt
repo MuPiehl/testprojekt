@@ -1,17 +1,15 @@
 test MPi
 haui
 hi, gibt es was neues?
-ja daten kommen gleich 
-bekomme den text nicht so ausgerichtet wie ich es mir wünsche 
-
-quasi so 
 
 
 
-das ein teil hier steht                                                                                                       ein anderer teil evtl hier 
+huhu delf ^^ 
+also ich habe mir nun etwas weiter reingelesen und es auch tatsächlich geschafft mal mehr mit div zu arbeiten
+
+zudem hab ich die kontakt box auch endlich dorthin bekommen wo sie eigentlich auch stehen soll :)
 
 
-                                                                  und im center ebenso eine kleinigkeit
-
-
-                                                    huhu                                                                          kontaktdaten eher unten rechtsbündig
+schonmal vielen dank für deine tipss und hilfe 
+dies hat mir bis jetzt doch sehr gut weiter gebracht 
+hast wirklich etwas gut bei mir :)
