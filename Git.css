@@ -3,7 +3,13 @@ body {
  font-family: Georgia, "Times New Roman",
           Times, serif;
      background-image: url("Bild B.jpg ");
-} 
+
+	
+
+	 
+	 
+	 
+	 } 
 		
 		ul { display:table; margin:0 auto;}
 		 
@@ -11,3 +17,19 @@ body {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		
+		
+	 #box1 {
+  background-color: lime;
+  
+         
+}	
+
+#box2{
+	background-color:skyblue;
+	position: absolute;
+          width: 215px;
+         height: 900px;
+            top: 15px;
+           left: 2px;
+}
+
