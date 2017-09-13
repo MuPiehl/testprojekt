@@ -33,3 +33,12 @@ body {
            left: 2px;
 }
 
+#box3{
+	background-color:skyblue;
+	position: absolute;
+          width: 214px;
+         height: 900px;
+            top: 15px;
+           right: 2px;
+}
+
