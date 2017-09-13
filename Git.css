@@ -19,26 +19,49 @@ body {
 		
 		
 	 #box1 {
-  background-color: lime;
-  
+		 
+  background-color: cyan;
+             width:300px;
+            height:500px;
+  border:1px black solid;
          
 }	
 
 #box2{
-	background-color:skyblue;
+	background-color:lightskyblue;
 	position: absolute;
           width: 215px;
          height: 900px;
             top: 15px;
            left: 2px;
-}
+		   border:2px black solid;
+}                    
+
 
 #box3{
-	background-color:skyblue;
+	background-color:lightskyblue;
 	position: absolute;
           width: 214px;
          height: 900px;
             top: 15px;
            right: 2px;
+		   border:2px black solid;
 }
 
+
+#position {
+ position: absolute;
+        left: 219px;
+      bottom: 30px;
+}
+
+#position1 {
+	 background-color: navy;
+             width:450px;
+            height:300px;
+  border:1px black solid;
+ position: absolute;
+        left: 225px;
+      bottom: 250px;
+	  
+}
